@@ -3,7 +3,7 @@
 
   Cara mengimplementasikan Tailwind CSS dengan HTML.
   
-
+Simak video nya disini ya [https://youtu.be/w-asaGXBJMU](https://youtu.be/w-asaGXBJMU)
 ## Recources
 
 - [tailwindcss](https://tailwindcss.com)
